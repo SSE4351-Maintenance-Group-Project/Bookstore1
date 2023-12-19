@@ -13,6 +13,8 @@ import store.Store;
  * @version 1.0
  *
  */
+
+//This is CategorizeController class
 public class CategorizeController extends HttpServlet {
     
     public void doPost (HttpServletRequest request, HttpServletResponse response)
